@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Обучение Unity\C#\Modul 3\SkillBox Modul 3\SkillBox Modul 3\bin\Debug\SkillBox Modul 3.exe.config
+C:\Users\PC\Desktop\Обучение Unity\C#\Modul 3\SkillBox Modul 3\SkillBox Modul 3\bin\Debug\SkillBox Modul 3.exe
+C:\Users\PC\Desktop\Обучение Unity\C#\Modul 3\SkillBox Modul 3\SkillBox Modul 3\bin\Debug\SkillBox Modul 3.pdb
+C:\Users\PC\Desktop\Обучение Unity\C#\Modul 3\SkillBox Modul 3\SkillBox Modul 3\obj\Debug\SkillBox Modul 3.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Обучение Unity\C#\Modul 3\SkillBox Modul 3\SkillBox Modul 3\obj\Debug\SkillBox Modul 3.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Обучение Unity\C#\Modul 3\SkillBox Modul 3\SkillBox Modul 3\obj\Debug\SkillBox Modul 3.exe
+C:\Users\PC\Desktop\Обучение Unity\C#\Modul 3\SkillBox Modul 3\SkillBox Modul 3\obj\Debug\SkillBox Modul 3.pdb
+C:\Users\PC\Desktop\Обучение Unity\C#\Modul 3\Home Work 3\SkillBox Modul 3\SkillBox Modul 3\bin\Debug\SkillBox Modul 3.exe.config
+C:\Users\PC\Desktop\Обучение Unity\C#\Modul 3\Home Work 3\SkillBox Modul 3\SkillBox Modul 3\bin\Debug\SkillBox Modul 3.exe
+C:\Users\PC\Desktop\Обучение Unity\C#\Modul 3\Home Work 3\SkillBox Modul 3\SkillBox Modul 3\bin\Debug\SkillBox Modul 3.pdb
+C:\Users\PC\Desktop\Обучение Unity\C#\Modul 3\Home Work 3\SkillBox Modul 3\SkillBox Modul 3\obj\Debug\SkillBox Modul 3.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Обучение Unity\C#\Modul 3\Home Work 3\SkillBox Modul 3\SkillBox Modul 3\obj\Debug\SkillBox Modul 3.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Обучение Unity\C#\Modul 3\Home Work 3\SkillBox Modul 3\SkillBox Modul 3\obj\Debug\SkillBox Modul 3.exe
+C:\Users\PC\Desktop\Обучение Unity\C#\Modul 3\Home Work 3\SkillBox Modul 3\SkillBox Modul 3\obj\Debug\SkillBox Modul 3.pdb
